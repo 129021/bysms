@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="770d0d5f-f70c-409b-9fc5-445406e09d7d" name="更改" comment="" />
+    <list default="true" id="770d0d5f-f70c-409b-9fc5-445406e09d7d" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bysms/bysms/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bysms/bysms/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +23,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="bysms" type="Python.DjangoServer" factoryName="Django server">
-      <module name="bysms" />
+    <configuration name="bysms" type="Python.DjangoServer" factoryName="Django server" singleton="false">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -34,6 +37,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
       <option name="host" value="" />
@@ -55,6 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1629890658656</updated>
       <workItem from="1629890660966" duration="808000" />
+      <workItem from="1629891956557" duration="961000" />
+      <workItem from="1629991056834" duration="187000" />
     </task>
     <servers />
   </component>
