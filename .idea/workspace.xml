@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="770d0d5f-f70c-409b-9fc5-445406e09d7d" name="更改" comment="">
+    <list default="true" id="770d0d5f-f70c-409b-9fc5-445406e09d7d" name="更改" comment="add the unallowed server and start it">
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sales/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sales/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sales/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sales/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sales/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sales/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sales/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bysms/bysms/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bysms/bysms/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bysms/bysms/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bysms/bysms/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bysms/bysms/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bysms/bysms/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bysms/bysms/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bysms/manage.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,13 +26,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1xDXVhgMs3UrY9QeHsQfnXxIPP6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -60,11 +84,49 @@
       <updated>1629890658656</updated>
       <workItem from="1629890660966" duration="808000" />
       <workItem from="1629891956557" duration="961000" />
-      <workItem from="1629991056834" duration="187000" />
+      <workItem from="1629991056834" duration="326000" />
+      <workItem from="1630162369478" duration="63000" />
+      <workItem from="1630162605622" duration="1252000" />
     </task>
+    <task id="LOCAL-00001" summary="add the unallowed server and start it">
+      <created>1629991361894</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629991361894</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add the unallowed server and start it" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the unallowed server and start it" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bysms/urls.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
