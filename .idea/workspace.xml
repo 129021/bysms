@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="770d0d5f-f70c-409b-9fc5-445406e09d7d" name="更改" comment="add the unallowed server and start it">
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales/views.py" afterDir="false" />
+    <list default="true" id="770d0d5f-f70c-409b-9fc5-445406e09d7d" name="更改" comment="setting url request">
+      <change afterPath="$PROJECT_DIR$/sales/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bysms/bysms/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bysms/bysms/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bysms/bysms/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bysms/bysms/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bysms/bysms/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bysms/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/sales/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,7 +81,8 @@
       <workItem from="1629891956557" duration="961000" />
       <workItem from="1629991056834" duration="326000" />
       <workItem from="1630162369478" duration="63000" />
-      <workItem from="1630162605622" duration="1252000" />
+      <workItem from="1630162605622" duration="1861000" />
+      <workItem from="1630236146991" duration="1752000" />
     </task>
     <task id="LOCAL-00001" summary="add the unallowed server and start it">
       <created>1629991361894</created>
@@ -95,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629991361894</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="setting url request">
+      <created>1630164037053</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630164037053</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,17 +119,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add the unallowed server and start it" />
-    <option name="LAST_COMMIT_MESSAGE" value="add the unallowed server and start it" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/bysms/urls.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="setting url request" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting url request" />
   </component>
 </project>
